@@ -34,8 +34,10 @@ errores.
 aqui notamos lo que se ha simulado la ejecucion de la celdas y asi sucesivamente
 
 ## Cambios realizados
+
 ### output 
-![events-mejorado](image.png)
+
+![events-mejorado](image1.1.png)
 En la imagen muestra cómo el sistema ha agregado y procesado eventos correctamente, ejecutando celdas de código en orden de prioridad y actualizando el estado compartido. Todos los eventos se registraron adecuadamente y el sistema se cerró con el atajo de teclado `ctrl + C` sin errores.
 
 ### Mejoras y Correcciones
